@@ -37,7 +37,7 @@ body {
 
 <html>
     <head>
-        <title>NeXon Web</title>
+        <title></title>
         <link href="css/style.css" type="text/css" media="all"/>
     </head>
 
